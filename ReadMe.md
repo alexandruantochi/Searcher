@@ -25,4 +25,4 @@ This simple app allows you to search big text files that are impossible to read 
 
 ###Installation
 
-The source files and java Swing .iml are in the src folder. If you need to use the app, just download the .jar file from the Seacher_jar dir. [Here](https://github.com/alexandruantochi/Searcher/blob/master/Searcher_jar/Searcher.jar?raw=true)
+The source files and java Swing .iml are in the src folder. If you need to use the app, just download the .jar file from the Seacher_jar dir from [here](https://github.com/alexandruantochi/Searcher/blob/master/Searcher_jar/Searcher.jar?raw=true).
