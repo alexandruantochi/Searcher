@@ -15,7 +15,7 @@ This simple app allows you to search big text files that are impossible to read 
 
 ###Features
 
-* Fast Mode - when deactivated, it provides with a Progress Bar, but takes time to process the file; once it's deactivated, the processed file information is stored and activating it will not increase or decreaseperformance. Active by default.
+* Fast Mode - when deactivated, it provides with a Progress Bar, but takes time to process the file; once it's deactivated, the processed file information is stored and activating it will not increase or decrease performance. Active by default.
 
 * Search All - searches for all occurances in the file and displays them after reaching end of file; this is slower as it needs to go thorugh the whole file. Inactive by default.
 
@@ -25,4 +25,4 @@ This simple app allows you to search big text files that are impossible to read 
 
 ###Installation
 
-The source files and java Swing .iml are in the src folder. If you need to use the app, just download the .jar file from the Seacher_jar dir.
+The source files and java Swing .iml are in the src folder. If you need to use the app, just download the .jar file from the Seacher_jar dir. [Here](https://github.com/alexandruantochi/Searcher/blob/master/Searcher_jar/Searcher.jar?raw=true)
